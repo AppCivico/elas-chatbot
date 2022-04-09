@@ -41,7 +41,7 @@
     "json2csv": "^4.5.2",
     "lodash.clone": "^4.5.0",
     "messaging-api-messenger": "^0.7.16",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nodemailer": "^6.2.1",
     "nodemon": "^2.0.3",
     "pagseguro-nodejs": "^0.1.2",
